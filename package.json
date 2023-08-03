@@ -2,20 +2,20 @@
     "name": "goit-team-job",
     "version": "1.0.0",
     "description": "Proyect to IceCream web",
-    "homepage": "https://developerstevenmarin.github.io/goit-team-job/",
+    "homepage": "https://karoll94.github.io/IceCreamPage/",
     "scripts": {
       "start": "parcel src/*.html",
       "build": "parcel build src/*.html --public-url /parcel-project-template/"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://developerstevenmarin.github.io/goit-team-job/"
+      "url": "git+https://karoll94.github.io/IceCreamPage/"
     },
     "keywords": [],
     "author": "Alexander Repeta <alexander.repeta@gmail.com>",
     "license": "ISC",
     "bugs": {
-      "url": "https://developerstevenmarin.github.io/goit-team-job/issues"
+      "url": "https://karoll94.github.io/IceCreamPage/"
     },
     "dependencies": {
       "modern-normalize": "^1.1.0"
