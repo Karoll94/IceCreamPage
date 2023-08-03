@@ -1,1 +1,1 @@
-# https://developerstevenmarin.github.io/goit-team-job/src/
+# https://karoll94.github.io/IceCreamPage/src/
